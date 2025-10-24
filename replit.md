@@ -1,3 +1,4 @@
+
 # Overview
 
 This is a full-stack task management application built with React and Express, designed specifically for social media managers to handle email-based tasks. The application provides a dashboard for organizing and tracking tasks with different priorities and categories, along with user authentication and real-time statistics.
